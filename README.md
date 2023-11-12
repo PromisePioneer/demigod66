@@ -22,7 +22,7 @@ Hello, my name is Firman. I am a recent graduate with a keen interest in working
 <details>
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
-![Metrics](https://metrics.lecoq.io/flowarth?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FMakassar)
+![Metrics](https://metrics.lecoq.io/demigod66?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FMakassar)
 
 </details>
 
@@ -32,4 +32,4 @@ Hello, my name is Firman. I am a recent graduate with a keen interest in working
   <a href="https://www.linkedin.com/in/rangga-setiawan-7bb7a8213"><img src="https://img.shields.io/badge/Linkedin-%234267B2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </p>
     
-![Profile Dilihat](https://komarev.com/ghpvc/?username=flowarth&color=blue&style=flat-square&label=Profile+Dilihat)
+![Profile Dilihat](https://komarev.com/ghpvc/?username=demigod66&color=blue&style=flat-square&label=Profile+Dilihat)
