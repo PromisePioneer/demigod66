@@ -5,13 +5,6 @@ Hello, my name is Firman. I am a recent graduate with a keen interest in working
 - ⚡ Motto : Attitude is a little thing that makes a big difference.
 
 
-
-
-
-### Statistic:
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=demigod66&show_icons=true&theme=radical"></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demigod66&layout=compact"></p>
-
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
@@ -28,8 +21,8 @@ Hello, my name is Firman. I am a recent graduate with a keen interest in working
 
 <h1 align="center"> Connect with me
 <p align="center">
-  <a href="https://instagram.com/srnggaa"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://www.linkedin.com/in/rangga-setiawan-7bb7a8213"><img src="https://img.shields.io/badge/Linkedin-%234267B2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://instagram.com/firmanfairuz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://www.linkedin.com/in/firman-792158213/"><img src="https://img.shields.io/badge/Linkedin-%234267B2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </p>
     
 ![Profile Dilihat](https://komarev.com/ghpvc/?username=demigod66&color=blue&style=flat-square&label=Profile+Dilihat)
